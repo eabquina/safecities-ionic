@@ -21,12 +21,6 @@ angular.module('starter', ['ionic'])
 
 .config(function($stateProvider, $urlRouterProvider) {
   $stateProvider
-	.state('disclose', {
-      url: '/disclose',
-      abstract: true,
-      templateUrl: 'templates/disclose.html'
-    })
-
     .state('tabs', {
       url: '/tab',
       abstract: true,
@@ -41,7 +35,33 @@ angular.module('starter', ['ionic'])
         }
       }
     })
-
+	
+	.state('tabs.disclose', {
+      url: '/disclose',
+      views: {
+        'disclose-tab' : {
+          templateUrl: 'templates/disclose.html'
+        }
+      }
+    })
+	.state('tabs.alert', {
+      url: '/alert',
+      views: {
+        'alert-tab' : {
+          templateUrl: 'templates/alert.html'
+        }
+      }
+    })
+	
+	.state('tabs.prevent', {
+      url: '/prevent',
+      views: {
+        'prevent-tab' : {
+          templateUrl: 'templates/prevent.html'
+        }
+      }
+    })
+	
     .state('tabs.list', {
       url: '/list',
       views: {
