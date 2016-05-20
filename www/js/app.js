@@ -21,6 +21,12 @@ angular.module('starter', ['ionic'])
 
 .config(function($stateProvider, $urlRouterProvider) {
   $stateProvider
+	.state('disclose', {
+      url: '/disclose',
+      abstract: true,
+      templateUrl: 'templates/disclose.html'
+    })
+
     .state('tabs', {
       url: '/tab',
       abstract: true,
