@@ -102,46 +102,56 @@
   "artists": [
     {
       "bio": "Dispatched roving police to patrol Matalino St. every 4PM for the group of incidents related to cat-calling",
+      "location":"POINT (121.0433972 14.63504)",
       "shortname": "Barot_Bellingham",
       "name": "Quezon City Police",
       "reknown": "Nangungulit na lalaki sa kanto ng Matalino St"
+
     },{
       "bio": "Apprehended two drivers after under-cover operations of police (ladies) and walk in front of the pedicab terminal",
+      "location":"POINT (121.0433972 14.63504)",
       "shortname": "Jonathan_Ferrar",
       "name": "Kamuning Police Station",
       "reknown": "Sumisitsit na pedicab driver sa Jamboree St."
     },{
       "bio": "Contacted the Barangay Captain of San Bartolome para sawayin ang mga umiinom na tambay sa kanto ng T.Gener at Quirino Hi-way",
+      "location":"POINT (121.0433972 14.63504)",
       "shortname": "Hillary_Goldwynn",
       "name": "San Bartolome Police Station",
       "reknown": "Nanghahabol na lasing sa kanto"
     },{
       "bio": "Contacted and visited the management of Jollibee ETON Centris to reprimand the waiter that harassed a customer",
+      "location":"POINT (121.0433972 14.63504)",
       "shortname": "Hassum_Harrod",
       "name": "Quezon City Station",
       "reknown": "Bastos na waiter sa Jollibee"
     },{
-      "bio": "A native of New Orleans, much of Jennifer's work has centered around abstract images that depict flooding and rebuilding, having grown up as a teenager in the post-flood years. Despite the sadness of devastation and lives lost, Jennifer's work also depicts the hope and togetherness of a community that has persevered. Jennifer's exhibit will be discussed during Tuesday's Water in Art theme.",
+      "bio": "Ongoing investigation if the serial rape cases are accurate and committed by the single person.",
+      "location":"POINT (121.0433972 14.63504)",
       "shortname": "Jennifer_Jerome",
       "name": "Valenzuela Police District",
-      "reknown": "New Orleans, LA"
+      "reknown": "Attemted Rape for multiple women"
     },{
-      "bio": "LaVonne's giant-sized paintings all around Chicago tell the story of love, nature, and conservation - themes that are central to her heart. LaVonne will share her love and skill of graffiti art on Monday's schedule, as she starts the painting of a 20-foot high wall in the Rousseau Room of Hotel Contempo in front of a standing-room only audience in Art in Unexpected Places.",
+      "bio": "Confirmed of mental disorder for the reported Ariante Dipalsis, the offender. Coordinated with NMHA to transfer the person for better care. Target date to by July 25, 2016",
+      "location":"POINT (121.0433972 14.63504)",
       "shortname": "LaVonne_LaRue",
       "name": "Monumento Police Station",
-      "reknown": "Nanankaw"
+      "reknown": "Nagpapakit nang ari at hinahawakan ito sa harap ng lahat"
     },{
-      "bio": "Constance received the Fullerton-Brighton-Norwell Award for Modern Art for her mixed-media image of a tree of life, with jewel-adorned branches depicting the arms of humanity, and precious gemstone-decorated leaves representing the spouting buds of togetherness. The daughter of a New York jeweler, Constance has been salvaging the discarded remnants of her father's jewelry-making since she was five years old, and won the New York State Fair grand prize at the age of 8 years old for a gem-adorned painting of the Manhattan Bridge.",
+      "bio": "Made a conference with UV Express Cooperatives in the district and made a seminar for all drivers to be the first to sway or apprehend offenders. Sila ay pwedeng nang sumbungan ng mga pasahero para ibaba ang salarin sa tapat ng pulis",
+      "location":"POINT (121.0433972 14.63504)",
       "shortname": "Constance_Smith",
       "name": "Philcoa Police Station",
       "reknown": "Nanghihipo sa loob ng FX o UV Express"
     },{
       "bio": "Dispatched officer and coordinated with DSWD since the suspects are minors in Sto. Nino public school",
+      "location":"POINT (121.0433972 14.63504)",
       "shortname": "Riley_Rewington",
       "name": "Tandang Sora Police Station",
       "reknown": "Nangnanakaw ng halik na classmate"
     },{
       "bio": "Humingi ng CCTV records sa Mall Management to verify the incident of vouyerism",
+      "location":"POINT (121.0433972 14.63504)",
       "shortname": "Xhou_Ta",
       "name": "Blue Meadows Station",
       "reknown": "Naninilip gamit ang cellphone sa escalator"
