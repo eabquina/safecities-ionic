@@ -1,10 +1,10 @@
-# Work In Progress - Sample UI App, no controllers yet for services (May 22, 2016)
 # Team-11 - Tech Ops PH
 Team Lead: EL Abquina     (Consultant)
 Members:   Elvin Abquina  (Student)
            Jennon Abquina (Student)
            Kim Abquina    (Teacher)		   
 
+Work In Progress - Sample UI App, no controllers yet for services (May 22, 2016)
 Drupal Ionic App with Drupal Services (http://dev-safecities.pantheonsite.io)- Open Layers
 Chikka API		   
 Cordova		   
